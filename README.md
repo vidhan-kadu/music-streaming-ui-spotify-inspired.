@@ -37,13 +37,13 @@ git clone https://github.com/vidhan-kadu/music-streaming-ui-spotify-inspired.git
 3. Open index.html in your browser (double-click or use Live Server extension for a live reload experience).
 
 ## 📸 Screenshots
-! [Project Screenshot](./assets/Spotify-UI.png.png)
+! [Spotify UI Screenshot](assets/Screenshot.png)
 
 ## 🔮 Future Improvements
 - Add JavaScript for play/pause and next/previous controls
 - Implement a playlist area and dynamic song lists
 - Add smooth animations and transitions for UI polish
-- Add mobile-specific layout refinements
+- Add mobile-specific layout refinements 
 
 ## 👨‍💻 Author
 - Made with ❤️ by Vidhan Kadu
